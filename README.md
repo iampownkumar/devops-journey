@@ -1,0 +1,49 @@
+# DevOps Journey — Pownkumar A
+
+> 83-day structured learning plan. Transforming from Lab Admin → DevOps Engineer.  
+> Started: 13 April 2026 | Target Job: 5 July 2026 | **69 days left**
+
+Learning in public. Every folder = one real day of real work.  
+Full Roadmap → [roadmap.korelium.org](https://roadmap.korelium.org)
+
+---
+
+## What I've Done
+
+| Day | Topic | What I Built / Did |
+|-----|-------|--------------------|
+| 01 | Shell script basics | First script — shebang, echo, variables, read, chmod +x |
+| 02 | If/Else conditions | File existence check, even/odd number script |
+| 03 | Loops | for/while loops, server ping script |
+| 04 | Functions | Reusable functions with arguments and return values |
+| 05 | Text processing | grep, awk, sed — log parsing |
+| 06 | Cron jobs | Scheduled scripts, logging output to file |
+| 07 | sysinfo.sh project | Hostname, disk, memory, processes — pushed to GitHub |
+| 08 | Networking commands | ping, curl, wget, ss, netstat, traceroute |
+| 09 | SSH | ssh-keygen, scp, passwordless login, SSH config |
+| 10 | TCP/IP · DNS · HTTP | dig, nslookup, curl headers, HTTP status codes |
+| 11 | Systemd | systemctl, journalctl — wrote `korelium-monitor.service` from scratch |
+
+---
+
+## Projects So Far
+
+- **`sysinfo.sh`** — prints hostname, disk usage, memory, processes, logged-in users
+- **`korelium-monitor.sh`** — logs CPU + memory every 60 seconds
+- **`korelium-monitor.service`** — custom systemd service, running on real Ubuntu VM
+
+---
+
+## Stack I'm Learning
+
+`Linux` `Bash` `Docker` `AWS` `GitHub Actions` `Jenkins` `Python` `Kubernetes` `Terraform`
+
+---
+
+## About
+
+DevOps engineer in progress. Based in Chennai, India.  
+Building [Korelium](https://korelium.org) on the side.  
+Open to junior DevOps / Linux admin roles — Chennai or remote.
+
+**GitHub:** [iampownkumar](https://github.com/iampownkumar)
