@@ -23,7 +23,7 @@ Full Roadmap → [roadmap.korelium.org](https://roadmap.korelium.org)
 | 09 | SSH | ssh-keygen, scp, passwordless login, SSH config |
 | 10 | TCP/IP · DNS · HTTP | dig, nslookup, curl headers, HTTP status codes |
 | 11 | Systemd | systemctl, journalctl — wrote `korelium-monitor.service` from scratch |
-
+| 12 | Package Management | apt vs dpkg, hold packages, install .deb, remove vs purge, audit manually installed — practiced on live EC2 |
 ---
 
 ## Projects So Far
@@ -47,3 +47,4 @@ Building [Korelium](https://korelium.org) on the side.
 Open to junior DevOps / Linux admin roles — Chennai or remote.
 
 **GitHub:** [iampownkumar](https://github.com/iampownkumar)
+***LinkedIn:** [iampownkumar](https://www.linkedin.com/in/iampownkumar/)
