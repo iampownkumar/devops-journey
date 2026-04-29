@@ -24,6 +24,7 @@ Full Roadmap → [roadmap.korelium.org](https://roadmap.korelium.org)
 | 10 | TCP/IP · DNS · HTTP | dig, nslookup, curl headers, HTTP status codes |
 | 11 | Systemd | systemctl, journalctl — wrote `korelium-monitor.service` from scratch |
 | 12 | Package Management | apt vs dpkg, hold packages, install .deb, remove vs purge, audit manually installed — practiced on live EC2 |
+| 13 | Process Management | ps, kill signals (TERM/STOP/CONT), nice, renice, pkill, disown — practiced on live EC2 |
 ---
 
 ## Projects So Far
