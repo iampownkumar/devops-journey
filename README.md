@@ -25,6 +25,7 @@ Full Roadmap → [roadmap.korelium.org](https://roadmap.korelium.org)
 | 11 | Systemd | systemctl, journalctl — wrote `korelium-monitor.service` from scratch |
 | 12 | Package Management | apt vs dpkg, hold packages, install .deb, remove vs purge, audit manually installed — practiced on live EC2 |
 | 13 | Process Management | ps, kill signals (TERM/STOP/CONT), nice, renice, pkill, disown — practiced on live EC2 |
+| 14 | Server Health Monitor | CPU check, logging, alerts, systemd timer — pushed to GitHub |
 ---
 
 ## Projects So Far
