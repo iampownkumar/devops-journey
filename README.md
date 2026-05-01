@@ -26,6 +26,7 @@ Full Roadmap → [roadmap.korelium.org](https://roadmap.korelium.org)
 | 12 | Package Management | apt vs dpkg, hold packages, install .deb, remove vs purge, audit manually installed — practiced on live EC2 |
 | 13 | Process Management | ps, kill signals (TERM/STOP/CONT), nice, renice, pkill, disown — practiced on live EC2 |
 | 14 | Server Health Monitor | CPU check, logging, alerts, systemd timer — pushed to GitHub |
+| 15 | Dockerfiles | FROM, WORKDIR, COPY, EXPOSE, CMD — built Python HTTP server, volume mounts, layer caching |
 ---
 
 ## Projects So Far
