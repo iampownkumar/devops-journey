@@ -1,2 +1,6 @@
 [2026-04-30 10:37:46] ok: cpu usage is normal: 5%
 [2026-04-30 10:42:58] ALERT: high cpu usage: 96% (threshold: 80%)
+[2026-05-04 09:32:54] ok: cpu usage is normal: 0%
+[2026-05-04 10:33:04] ok: cpu usage is normal: 5%
+[2026-05-04 11:50:59] ok: cpu usage is normal: 53%
+[2026-05-05 13:19:38] ok: cpu usage is normal: 55%

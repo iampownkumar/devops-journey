@@ -28,6 +28,7 @@ Full Roadmap → [roadmap.korelium.org](https://roadmap.korelium.org)
 | 14 | Server Health Monitor | CPU check, logging, alerts, systemd timer — pushed to GitHub |
 | 15 | Dockerfiles | FROM, WORKDIR, COPY, EXPOSE, CMD — built Python HTTP server, volume mounts, layer caching |
 | 16 | Docker Volumes + Bind Mounts | Named volumes, bind mounts, persisted MySQL data across container restarts |
+| 17 | Docker Networking | Custom networks, container DNS, Flask + Redis hit counter app |
 ---
 
 ## Projects So Far
