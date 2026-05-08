@@ -29,6 +29,10 @@ Full Roadmap → [roadmap.korelium.org](https://roadmap.korelium.org)
 | 15 | Dockerfiles | FROM, WORKDIR, COPY, EXPOSE, CMD — built Python HTTP server, volume mounts, layer caching |
 | 16 | Docker Volumes + Bind Mounts | Named volumes, bind mounts, persisted MySQL data across container restarts |
 | 17 | Docker Networking | Custom networks, container DNS, Flask + Redis hit counter app |
+| 18 | Docker Compose | docker-compose.yml structure, multi-container apps, depends_on, environment, ports — ran web app + database together with one command |
+| 19 | Docker Hub + Image Registry | docker push/pull from Docker Hub, tagging images properly, private vs public repos — pushed Week 3 image to Docker Hub under iampownkumar |
+| 20 | Docker Best Practices + Cleanup | Multi-stage builds, Alpine base images, .dockerignore, docker system prune — reduced image size from 1.1 GB to 130 MB|
+
 ---
 
 ## Projects So Far
